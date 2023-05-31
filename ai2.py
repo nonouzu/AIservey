@@ -37,7 +37,7 @@ def ask(question):
 
 
 
-kensakulist = ['container', 'コンテナ', 'Docker','CNCF', 'kubernetes', 'k8s', 'マイクロサービス','クラウド']
+kensakulist = ['kubernetes', 'コンテナ', 'Docker','CNCF', 'kubernetes', 'k8s', 'マイクロサービス','クラウド']
 
 for kensaku in kensakulist:
     try:
